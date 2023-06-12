@@ -1,0 +1,622 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.9.0" title="Shotcut version 22.10.25" producer="main_bin">
+  <profile description="automatic" width="1080" height="1920" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="9" display_aspect_den="16" frame_rate_num="200700" frame_rate_den="3347" colorspace="709"/>
+  <chain id="chain0" out="00:00:11.140">
+    <property name="length">00:00:11.157</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2566.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:13:26</property>
+    <property name="shotcut:hash">05df1c50fafafe3e627b50e65c48ed11</property>
+    <property name="ignore_points">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">IMG_2566.MOV</property>
+  </chain>
+  <chain id="chain1" in="00:00:01.884" out="00:00:07.788">
+    <property name="length">00:00:07.805</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2567.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:13:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0fea0a755909793363b56244fecea624</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">IMG_2567.MOV</property>
+  </chain>
+  <chain id="chain2" out="00:00:06.037">
+    <property name="length">00:00:06.054</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2561.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T10:56:32</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6c0d0fc884687e28d507bcc24ea41aa6</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">IMG_2561.MOV</property>
+  </chain>
+  <chain id="chain3" in="00:00:00.033" out="00:00:08.105">
+    <property name="length">00:00:08.122</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2562.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:02:49</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a66d5d7be66c02f9311df8e6e169d08b</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">IMG_2562.MOV</property>
+  </chain>
+  <chain id="chain4" out="00:00:07.471">
+    <property name="length">00:00:07.488</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2564.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:03:56</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">04c405645ec5464242c6ad9188c08233</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">IMG_2564.MOV</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="00:00:03.986">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">slikaa.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-06-10T11:33:41</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e8c0ddc970f47a8a4e897a60d28fe699</property>
+    <property name="shotcut:caption">slikaa.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:03.986">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter0" out="00:00:03.986">
+      <property name="argument">Nika Beketic -Digitalni multimediji 1</property>
+      <property name="geometry">27 41 663 134 1</property>
+      <property name="family">Freestyle Script</property>
+      <property name="size">80</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:03.986">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter1" out="00:00:03.986">
+      <property name="argument">  Starbucks
+Hot chocolate
+</property>
+      <property name="geometry">-65 430 1184 699 1</property>
+      <property name="family">Yu Gothic UI</property>
+      <property name="size">80</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">4</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:11.140"/>
+    <entry producer="chain1" in="00:00:01.884" out="00:00:07.788"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:06.037"/>
+    <entry producer="chain3" in="00:00:00.033" out="00:00:08.105"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:07.471"/>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.986"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.986"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.986"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:31.052">
+    <property name="length">00:00:31.069</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:31.052"/>
+  </playlist>
+  <chain id="chain5" out="00:00:06.037">
+    <property name="length">00:00:06.054</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2561.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T10:56:32</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6c0d0fc884687e28d507bcc24ea41aa6</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2561.MOV</property>
+  </chain>
+  <chain id="chain6" out="00:00:07.788">
+    <property name="length">00:00:07.805</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2567.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:13:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0fea0a755909793363b56244fecea624</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2567.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <filter id="filter2" out="00:00:01.117">
+      <property name="mlt_service">avfilter.tmix</property>
+      <property name="av.frames">23</property>
+      <property name="av.weights">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23</property>
+    </filter>
+  </chain>
+  <chain id="chain7" out="00:00:07.788">
+    <property name="length">00:00:07.805</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2567.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:13:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0fea0a755909793363b56244fecea624</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2567.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain8" out="00:00:07.471">
+    <property name="length">00:00:07.488</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2564.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:03:56</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">04c405645ec5464242c6ad9188c08233</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2564.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <filter id="filter3" out="00:00:01.701">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.984=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.001</property>
+    </filter>
+  </chain>
+  <chain id="chain9" out="00:00:07.471">
+    <property name="length">00:00:07.488</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2564.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:03:56</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">04c405645ec5464242c6ad9188c08233</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2564.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain10" out="00:00:07.471">
+    <property name="length">00:00:07.488</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2564.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:03:56</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">04c405645ec5464242c6ad9188c08233</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2564.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <filter id="filter4" in="00:00:06.370" out="00:00:07.471">
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.glitch0r</property>
+      <property name="0">0.5</property>
+      <property name="1">0.5</property>
+      <property name="2">0.5</property>
+      <property name="3">0.5</property>
+    </filter>
+  </chain>
+  <chain id="chain11" out="00:00:08.105">
+    <property name="length">00:00:08.122</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2562.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:02:49</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a66d5d7be66c02f9311df8e6e169d08b</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2562.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <filter id="filter5" in="00:00:00.033" out="00:00:01.367">
+      <property name="version">2.6</property>
+      <property name="mlt_service">frei0r.bigsh0t_transform_360</property>
+      <property name="shotcut:filter">bigsh0t_transform_360</property>
+      <property name="yaw">94</property>
+      <property name="pitch">62</property>
+      <property name="roll">81</property>
+      <property name="interpolation">1</property>
+      <property name="grid">0</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter6" in="00:00:00.033" out="00:00:01.367">
+      <property name="rect">0 0 1080 1920 1</property>
+      <property name="blur">7.9</property>
+      <property name="mlt_service">pillar_echo</property>
+      <property name="shotcut:filter">blur_pad</property>
+    </filter>
+  </chain>
+  <chain id="chain12" out="00:00:08.105">
+    <property name="length">00:00:08.122</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2562.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:02:49</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a66d5d7be66c02f9311df8e6e169d08b</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2562.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain13" out="00:00:08.105">
+    <property name="length">00:00:08.122</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2562.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:02:49</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a66d5d7be66c02f9311df8e6e169d08b</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2562.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <filter id="filter7" in="00:00:05.437" out="00:00:06.821">
+      <property name="start">1</property>
+      <property name="level">2</property>
+      <property name="mlt_service">brightness</property>
+    </filter>
+  </chain>
+  <chain id="chain14" out="00:00:08.105">
+    <property name="length">00:00:08.122</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2562.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:02:49</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a66d5d7be66c02f9311df8e6e169d08b</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2562.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain15" out="00:00:07.788">
+    <property name="length">00:00:07.805</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2567.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:13:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0fea0a755909793363b56244fecea624</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2567.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain16" out="00:00:07.788">
+    <property name="length">00:00:07.805</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Ivana/Downloads/IMG_2567.MOV</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-06-10T11:13:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0fea0a755909793363b56244fecea624</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">IMG_2567.MOV</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <filter id="filter8" in="00:00:06.120" out="00:00:07.788">
+      <property name="start">1</property>
+      <property name="level">00:00:00.684=1;00:00:01.668=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.001</property>
+    </filter>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:06.037"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:01.117"/>
+    <entry producer="chain7" in="00:00:01.134" out="00:00:03.769"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:00:01.701"/>
+    <entry producer="chain9" in="00:00:01.718" out="00:00:06.220"/>
+    <entry producer="chain10" in="00:00:06.504" out="00:00:07.471"/>
+    <entry producer="chain11" in="00:00:00.033" out="00:00:01.367"/>
+    <entry producer="chain12" in="00:00:01.384" out="00:00:05.420"/>
+    <entry producer="chain13" in="00:00:05.437" out="00:00:06.821"/>
+    <entry producer="chain14" in="00:00:06.837" out="00:00:08.105"/>
+    <entry producer="chain15" in="00:00:01.884" out="00:00:06.104"/>
+    <entry producer="chain16" in="00:00:06.120" out="00:00:07.788"/>
+  </playlist>
+  <producer id="producer3" in="00:00:00.000" out="04:00:00.000">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">slikaa.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-06-10T11:33:41</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e8c0ddc970f47a8a4e897a60d28fe699</property>
+    <property name="shotcut:caption">slikaa.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:06.037"/>
+  </playlist>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:00.017"/>
+  </playlist>
+  <producer id="producer4" in="00:00:00.000" out="04:00:00.000">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter9" out="00:00:31.052">
+      <property name="argument">Nika Beketic -Digitalni multimediji 1</property>
+      <property name="geometry">27 41 663 134 1</property>
+      <property name="family">Freestyle Script</property>
+      <property name="size">80</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:31.052"/>
+  </playlist>
+  <producer id="producer5" in="00:00:00.000" out="04:00:00.000">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter10" out="00:00:05.770">
+      <property name="argument">  Starbucks
+Hot chocolate
+</property>
+      <property name="geometry">-81 633 1184 699 1</property>
+      <property name="family">Yu Gothic UI</property>
+      <property name="size">80</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">4</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <playlist id="playlist4">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V4</property>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:05.770"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 22.10.25" in="00:00:00.000" out="00:00:31.052">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <track producer="background"/>
+    <track producer="playlist0" hide="audio"/>
+    <track producer="playlist1" hide="audio"/>
+    <track producer="playlist2" hide="video"/>
+    <track producer="playlist3"/>
+    <track producer="playlist4"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">1</property>
+      <property name="b_track">4</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">1</property>
+      <property name="b_track">5</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
